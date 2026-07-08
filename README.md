@@ -44,3 +44,10 @@ Real world use cases: FAQs, glossaries, product specs, dictionaries.
   <dt>Arc</dt>
   <dd>This is a free Chromium based web browser first released in 2023 by The Browser Company.</dd>
 </dl>
+
+### My Results
+I passed all the tests ✅
+
+![freeCodeCamp Challenge Completed](success-screenshot.png)
+
+That confetti animation still hits every time 😂
