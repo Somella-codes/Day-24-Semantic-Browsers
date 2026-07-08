@@ -49,7 +49,7 @@ Real world use cases: FAQs, glossaries, product specs, dictionaries.
 I passed all the tests ✅
 
 **Code Editor:**
-![freeCodeCamp Code](code-screenshot.jpg)
+![freeCodeCamp Code](Screenshot_20260708_161254_Samsung%20Internet.jpg)
 
 **Browser Preview:**
 ![Tests Passed](result-screenshot.jpg)
