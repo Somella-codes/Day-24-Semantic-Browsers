@@ -48,6 +48,10 @@ Real world use cases: FAQs, glossaries, product specs, dictionaries.
 ### My Results
 I passed all the tests ✅
 
-![freeCodeCamp Challenge Completed](success-screenshot.png)
+**Code Editor:**
+![freeCodeCamp Code](code-screenshot.jpg)
+
+**Browser Preview:**
+![Tests Passed](result-screenshot.jpg)
 
 That confetti animation still hits every time 😂
